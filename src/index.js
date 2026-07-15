@@ -38,7 +38,7 @@ client.on("messageCreate", message => {
 	});
 
 	if (content !== message.content) {
-		message.channel.send(content);
+		message.reply("Sai rồi, phải là: " + content);
 	}
 });
 
