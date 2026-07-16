@@ -1,9 +1,11 @@
 {
-    "Shyload": ["cc", "cac", "concac", "cặc"],
+    "Shyload": ["cc", "cac", "concac", "cặc", "cằc"],
     "Shyloap": ["cl", "cai lon"],
     "còn Cypher": ["clear"],
     "gay": ["tsm"],
     "j*b": ["job"],
     "l*m": ["làm"],
-    "c*ng vi*c": ["công việc"]
+    "c*ng vi*c": ["công việc"],
+    "mấy con ckó ngu": ["<@&1526980852247040194>"],
+    "@chị G": ["bán mikè", "bán mike", "ban mike", "bán mice", "bán <@455951762470338560>"]
 }
