@@ -1,11 +1,16 @@
 {
     "Shyload": ["cc", "cac", "concac", "cặc", "cằc"],
     "Shyloap": ["cl", "cai lon"],
+    "ShyLoas": ["gay vai lon"],
     "còn Cypher": ["clear"],
+    "Kaiser": ["nắc"],
+    "K": ["dâm", "fudi"],
     "gay": ["tsm"],
     "j*b": ["job"],
     "l*m": ["làm"],
     "c*ng vi*c": ["công việc"],
     "mấy con ckó ngu": ["<@&1151518720141832342>"],
-    "@chị G": ["bán mikè", "bán mike", "ban mike", "bán mice", "bán <@455951762470338560>"]
+    "@chị G": ["bán mikè", "bán mike", "ban mike", "bán mice", "bán <@455951762470338560>"],
+    "game rác": ["valorant", "valoran", "viliran", "a9", "arknights", "arknight"],
+    "trong site": ["main"]
 }
